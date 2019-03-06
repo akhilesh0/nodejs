@@ -1,0 +1,26 @@
+{
+  "name": "node-js-getting-started",
+  "version": "0.1.5",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.3.4",
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "4.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EqualExperts/node-js-getting-started"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
